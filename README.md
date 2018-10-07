@@ -1,0 +1,1 @@
+Some exercises made during Object Technologies 2 course
